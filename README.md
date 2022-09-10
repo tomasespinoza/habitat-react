@@ -1,3 +1,3 @@
 # Habitat Real Estate App
 
-Real Estate listings site created in React, Wordpress and ACF.
+Real Estate listings site using Headless Wordpress CMS, React and Advanced Custom Fields.
